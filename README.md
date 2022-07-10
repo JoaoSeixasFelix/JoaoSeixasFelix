@@ -13,9 +13,8 @@
 </p>
 
 - 🔭 I’m currently working on Full-Stack skills.
-
-I'm a Fullstack Developer Studentsmile
-I Love studying about new technologies and create solutions.
+- I'm a Fullstack Developer Studentsmile
+- I Love studying about new technologies and create solutions.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
