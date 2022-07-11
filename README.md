@@ -34,7 +34,6 @@
 
 <h2 align="left"> Learning: </h2>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-- 🌱 Learning: **about Vue in Front-End and NodeJS using a TypeScript using a in MongoDB on Heroku.**
 
 - 📫 How to reach me **joaopaulo_seixas@outlook.com**
 
