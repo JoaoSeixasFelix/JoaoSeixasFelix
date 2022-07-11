@@ -7,7 +7,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoseixasfelix&show_icons=true&locale=en&layout=compact" alt="joaoseixasfelix" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaoseixasfelix&show_icons=true&locale=en" alt="joaoseixasfelix" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=joaoseixasfelix&show_icons=true&locale=en" alt="joaoseixasfelix" /></p>
 
 
 <h2 align="left">My specialties:</h2>
