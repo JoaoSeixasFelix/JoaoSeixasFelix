@@ -6,8 +6,8 @@
 - I love studying about new technologies and creating new and better solutions.
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoseixasfelix&show_icons=true&locale=en&layout=compact" alt="joaoseixasfelix" /> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaoseixasfelix&show_icons=true&locale=en" alt="joaoseixasfelix" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoseixasfelix&show_icons=true&locale=en&layout=compact" alt="joaoseixasfelix" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaoseixasfelix&show_icons=true&locale=en" alt="joaoseixasfelix" />
 
 
 <h2 align="left">My specialties:</h2>
