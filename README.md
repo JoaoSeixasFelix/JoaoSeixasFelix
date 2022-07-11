@@ -7,10 +7,6 @@
 - I love studying about new technologies and creating new and better solutions.
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoseixasfelix&show_icons=true&locale=en&layout=compact" alt="joaoseixasfelix" /> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaoseixasfelix&show_icons=true&locale=en" alt="joaoseixasfelix" />
-
-
 <h2 align="left">My specialties:</h2>
 
 <h3 align="left"> Languages: </h3>
@@ -42,12 +38,19 @@
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/>
 
-<h3 align="left">Languages and Auxiliary Tools:</h3>
+<h2 align="left">Languages and Auxiliary Tools:</h2>
 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+
+<h2 align="left">Add-ons:</h2>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoseixasfelix&show_icons=true&locale=en&layout=compact" alt="joaoseixasfelix" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaoseixasfelix&show_icons=true&locale=en" alt="joaoseixasfelix" />
+
+<h2 align="left">Socials</h2>
 
 <h3 align="left">Connect with me: <a href="https://linkedin.com/in/jo%c3%a3o-paulo-seixas-felix/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jo%c3%a3o-paulo-seixas-felix/" height="30" width="40" /></a></h3>
 
