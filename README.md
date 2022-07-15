@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Joao Paulo Seixas Felix</h1>
+<h1 align="center">
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&lines=Hello%2C+I'm+Joao+Paulo+Seixas.;I'm+a+Full+Stack+Development+Student.)](https://git.io/typing-svg)
+
+</h1>
 
 ***About me:***
 
@@ -6,7 +10,6 @@
 - I started my studies on programming in February/2022, and I find myself more passionate about the area.
 - I love studying about new technologies and creating new and better solutions.
 
-<h2 align="left">Add-ons:</h2>
 <div align="center">
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoseixasfelix&show_icons=true&locale=en&layout=compact" alt="joaoseixasfelix"/>
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaoseixasfelix&show_icons=true&locale=en" alt="joaoseixasfelix" />
