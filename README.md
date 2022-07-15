@@ -53,8 +53,7 @@
 
 <h2 align="left">Socials</h2>
 
-<h3 align="left">Connect with me: <a href="https://linkedin.com/in/jo%c3%a3o-paulo-seixas-felix/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jo%c3%a3o-paulo-seixas-felix/" height="30" width="40" /></a></h3>
-
-📫 How to reach me **joaopaulo_seixas@outlook.com**
-
-
+<a href="https://linkedin.com/in/jo%c3%a3o-paulo-seixas-felix/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jo%c3%a3o-paulo-seixas-felix/" height="30" width="40" /></a>
+ <a href="mailto:joaopaulo_seixas@outlook.com" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Outlook.com/Outlook.com-Logo.wine.svg" alt="jo%c3%a3o-paulo-seixas-felix/" height="40" width="50" /></a>
+  
+  
