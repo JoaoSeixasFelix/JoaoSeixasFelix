@@ -1,6 +1,6 @@
 <h1 align="center">
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&lines=Hello%2C+I'm+Joao+Paulo+Seixas.;I'm+a+Full+Stack+Development+Student.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=23&color=71B7FF&background=FFFFFF00&center=true&vCenter=true&width=550&lines=Hello%2C+I'm+Joao+Paulo+Seixas.;I'm+a+Full+Stack+Development+Student.)](https://git.io/typing-svg)
 
 </h1>
 
