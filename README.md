@@ -8,7 +8,7 @@
 
 <h2 align="left">Add-ons:</h2>
 <div align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoseixasfelix&show_icons=true&locale=en&layout=compact" alt="joaoseixasfelix" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoseixasfelix&show_icons=true&locale=en&layout=compact" alt="joaoseixasfelix" /> 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaoseixasfelix&show_icons=true&locale=en" alt="joaoseixasfelix" />
 </div>
 
