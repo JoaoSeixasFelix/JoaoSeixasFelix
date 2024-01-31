@@ -6,7 +6,7 @@
 
 ***About me:***
 
-- I'm 25 years old and I'm a Full Stack Development Student.
+- I'm 25 years old and I'm a Full Stack Development.
 - I started my studies on programming in February/2022, and I find myself more passionate about the area.
 - I love studying about new technologies and creating new and better solutions.
 
